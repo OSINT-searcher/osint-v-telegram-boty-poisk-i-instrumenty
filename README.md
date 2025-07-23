@@ -78,4 +78,4 @@ OSINT-боты в Telegram помогают собирать открытую и
 
 [Телеграм боты для пробива](https://github.com/OSINT-searcher/analogi_Glaza_Boga)
 
-[Открыть статью как отдельную страницу](https://github.com/OSINT-searcher/osint-v-telegram-boty-poisk-i-instrumenty)
+[Открыть статью как отдельную страницу](https://osint-searcher.github.io/osint-v-telegram-boty-poisk-i-instrumenty/)
