@@ -77,5 +77,3 @@ OSINT-боты в Telegram помогают собирать открытую и
 Все сведения предоставляются «как есть» и используются для формирования осознанного подхода к приватности и понимания угроз при работе с мессенджерами.
 
 [Телеграм боты для пробива](https://github.com/OSINT-searcher/analogi_Glaza_Boga)
-
-[Открыть статью как отдельную страницу](https://osint-searcher.github.io/osint-v-telegram-boty-poisk-i-instrumenty/)
