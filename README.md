@@ -14,7 +14,7 @@ OSINT боты Телеграм являются важной составляю
 * [Телеграм бот Userbox](https://t.me/BofOfUsersBot?start=NDA2ODQwMTU5) - набор инструментов для поиска информации по человеку. **Новым пользователям временно бесплатен!**
 * [Телеграм бот Sherlock](https://t.me/sherlokbrkxbot?start=_ref_9pyalm_JJwlz5) - инструмент поиска данных по человеку.
 * [Телеграм бот Himera](https://t.me/himerawofbot?start=406840159) - законный бот, но из-за этого достаточно дорогой.
-* [Телеграм бот FunStat](https://t.me/shysbeiebot?start=01015FE33F1800000000) - поиск сообщений человека в Телеграм, чатов и прочей активности в ТГ.
+* [Телеграм бот FunStat](https://t.me/FAN_STATT_Bot?start=01015FE33F1800000000) - поиск сообщений человека в Телеграм, чатов и прочей активности в ТГ.
 * [Телеграм бот Unamer](https://t.me/unamer_bot?start=ref-A8RdA2aSBwpnxW) - поиск информации об аккаунте в ТГ и поиск пользователей по имени.
 * [Телеграм бот Telesint](https://t.me/TeleSINTStatbot?start=ref_0e028efa34) - поиск чатов и групп человека и поиск пользователей по имени.
 * [Телеграм бот TeleScan](https://t.me/TScan_TrMxz_Robot?start=406840159) - поиск чатов и групп человека.
