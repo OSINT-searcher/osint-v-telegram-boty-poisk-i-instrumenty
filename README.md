@@ -12,6 +12,7 @@ OSINT боты Телеграм являются важной составляю
 
 Популярные OSINT боты для поиска информации:
 * [Телеграм бот Sherlock](https://t.me/fjhifhfjdi_bot?start=_ref_9pyalm_JJwlz5) - инструмент поиска данных по человеку.
+* [Телеграм бот Vektor](https://t.me/Vektorbot_bot?start=r_eFGr1BT2b5) - сервис для общего поиска, в том числе и Телеграм.
 * [Телеграм бот Himera](https://t.me/HimeraSearch9kNBot?start=406840159) - законный бот, но из-за этого достаточно дорогой.
 * [Телеграм бот FunStat](https://t.me/FAN_STATT_Bot?start=01015FE33F1800000000) - поиск сообщений человека в Телеграм, чатов и прочей активности в ТГ.
 * [Телеграм бот Unamer](https://t.me/unamer_bot?start=ref-A8RdA2aSBwpnxW) - поиск информации об аккаунте в ТГ и поиск пользователей по имени.
