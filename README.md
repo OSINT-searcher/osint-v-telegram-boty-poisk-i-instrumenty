@@ -25,7 +25,7 @@ OSINT боты Телеграм являются важной составляю
 |📲🪙🆓| [Sherlock](https://t.me/sharlokk_bot?start=_ref_9pyalm_JJwlz5) | Инструмент поиска данных по человеку.|
 |📲♻️🆓| [Vektor](https://t.me/patamushobot?start=r_eFGr1BT2b5) | Сервис для общего поиска, в том числе и Телеграм.|
 |📲🪙  | [Enigma](https://t.me/kdkdkddkdkdkddbot?start=C96FP5YS) | Бот для поиска данных и пробива, с редкими базами.|
-|📲🪙  | [Himera](https://t.me/AlgoHimerka_bot?start=406840159) | Законный бот, но из-за этого достаточно дорогой.|
+|📲🪙  | [Himera](https://t.me/HEMERA272_BOT?start=406840159) | Законный бот, но из-за этого достаточно дорогой.|
 |📲🪙🆓| [FunStat](https://t.me/telelokbot?start=01083996516B74617466) | Поиск сообщений человека в Телеграм, чатов и прочей активности в ТГ.|
 |📲♻️  | [LeakOSINT](https://t.me/deepleaks_bot?start=P6e02W) | Межрегиональный бот поиска, который ищет и ТГ-информацию. Не работает с РУ акками Телеграм (нужен аккаунт другой страны).|
 |📲🪙  | [Unamer](https://t.me/unamer_official_bot?start=ref-A8RdA2aSBwpnxW) | Поиск информации об аккаунте в ТГ и поиск пользователей по имени.|
